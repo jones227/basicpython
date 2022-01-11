@@ -16,7 +16,7 @@ while b:
     if y > 100:
         # break
         b = False
-lis[5] = 'donk'
+lis[20] = 'donk'
 
 zulul = []
 zulul.append(snipers)

@@ -1,8 +1,5 @@
 import PySimpleGUI as sg
 
-# Add some color
-# to the window
-sg.theme('SandyBeach')
 
 # Very basic window.
 # Return values using
